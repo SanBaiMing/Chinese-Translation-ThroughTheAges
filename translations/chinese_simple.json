@@ -13,7 +13,7 @@
     "$BlueLakeScroll01": "维拉特：斯特姆最近问我哪个星座是<![CDATA[<color=orange>水母座</color>]]>，我也记不清了——有人能解释一下吗？算帮我，也帮孩子们一个忙！",
     "$BlueLakeScroll02": "奥弗里斯：那个星座对称纤细，尾迹沿着天幕延展。斯特姆真该好好听我的课！",
     "$BlueLakeScroll03": "菲萨利斯：姐姐，人各有所好嘛（再说，你讲的课对他这个年纪来说也太没意思了！）",
-    "$BlueLakeScroll04": "维拉特：更新一下：宝和里尔西（另外两个孩子）现在也问我怎么才能轻松找到它。我记得日落三刻后可以在<![CDATA[<color=orange>天文观测站</color>]]>看到，但我担心自己记错了。",
+    "$BlueLakeScroll04": "维拉特：更新一下：宝和里尔西（另外两个孩子）现在也问我怎么才能轻松找到它。我记得日落三刻后可以在<![CDATA[<color=orange>日晷</color>]]>处看到它，但我担心自己记错了。",
     "$BlueLakeScroll05": "菲萨利斯：<![CDATA[<color=orange>水母座</color>]]>在日落四刻后出现！我姐姐（也就是你的导师）非要我把知识点记扎实……",
     "$BlueLakeScroll06": "维拉特：多谢，菲萨利斯。我尽快告诉孩子们（或许你也该拜入她门下好好学习）。",
     "$ExpoHall01": "尼姆：看来就是这里了。我们把这个展区逛完了。",
@@ -49,9 +49,9 @@
     "$FomaiWallB03": "菲萨利斯：宝或许可以，但斯特姆现在满脑子都是调皮捣蛋。",
     "$FomaiWallB04": "吉姆：这话有点难说出口：我发现孩子们从<![CDATA[<i>里面</i>]]>的<![CDATA[<color=orange>维修隧道</color>]]>里盯着我。",
     "$FomaiWallB05": "奥弗里斯：恭喜啊，弟弟！你对斯特姆的评价看来完全正确。",
-    "$FomaiWallB06": "维拉特：各位，很抱歉。推测：孩子们玩的寻宝游戏（斯特姆设计的）的终点，是维修隧道一处被忽略的入口。（我确定他们没从正门进去。）",
-    "$FomaiWallBelowExpo01": "维拉特：吉姆，我想去展厅看看，但门关得严严实实的。是出什么问题了吗？",
-    "$FomaiWallBelowExpo02": "吉姆：抱歉，维拉特：展厅里有一件非常脆弱的文物，为了保护它，展厅只在活动期间开放——也就是安排好的开放时间。",
+    "$FomaiWallB06": "维拉特：各位，很抱歉。推测：孩子们玩的（由斯特姆设计的）寻宝游戏的终点，是维修隧道一处被忽略的入口。（我确定他们没从正门进去。）",
+    "$FomaiWallBelowExpo01": "维拉特：吉姆，我想去（我们头上的）<![CDATA[<color=orange>展厅</color>]]>看看，但门关得严严实实的。是出什么问题了吗？",
+    "$FomaiWallBelowExpo02": "吉姆：抱歉，维拉特：<![CDATA[<color=orange>展厅</color>]]>里有一件非常脆弱的文物，为了保护它，<![CDATA[<color=orange>展厅</color>]]>只在活动期间开放——也就是安排好的开放时间。",
     "$FomaiWallBelowExpo03": "维拉特：原来如此！希望我很快能亲眼见到这件文物。",
     "$Garden01": "发现节结束后，<![CDATA[<color=orange>盛大展览</color>]]>该如何处置？",
     "$Garden02": "奥弗里斯：我建议拆除，材料回收用于未来的项目。",
@@ -71,7 +71,7 @@
     "$GravityRoom03": "宝：才没有！我只是想凑近看看<![CDATA[<color=orange>重力控制装置</color>]]>！",
     "$GravityRoom04": "斯特姆：行吧，不管怎样，我有个东西你可能感兴趣。老地方见（<![CDATA[<color=orange>古城</color>]]>楼梯底下）。带上里尔西！",
     "$MemeText": "<![CDATA[<color=orange>过去与未来</color>]]>，就是我们一路上收获的朋友 •:)",
-    "$MemorialForestCairnA": "艾斯科尔：你和你的家族消失得无影无踪。愿你们的旅途行至远方。",
+    "$MemorialForestCairnA": "艾斯科尔：你和你的家族跃迁得无影无踪。愿你们的旅途行至远方。",
     "$MemorialForestCairnB": "赛：一场意外夺走了你的生命。愿你得偿所愿，学有所成。",
     "$MemorialForestCairnC": "库拉特拉：你寿终正寝。感谢你留下的所有故事。",
     "$MemorialForestCairnD": "利什：疾病带走了你。感谢你曾如此勇敢地为他人抗击病痛。",
@@ -130,11 +130,11 @@
     "$RadiotelescopeDevNote02": "开发者注：请想象信号在循环中反复开关（门也随之开合）。",
     "$RadiotelescopeDevNote03": "开发者注：调度室的天花板上有一道裂缝，可以从外面打开门。",
     "$RadiotelescopeDevNote04": "开发者注：作为剧情扣分的补偿，送你们一句：<![CDATA[<color=orange>过去与未来。</color>]]> 这样就对了。",
-    "$SchedulingRoomComputer01": "正在查询日程……",
+    "$SchedulingRoomComputer01": "正在查询日程表……",
     "$SchedulingRoomComputer02": "找到1项活动",
     "$SchedulingRoomComputer03": "$TEAMFRED_EXPO_TIME",
-    "Expo Hall Scheduled to open in <![CDATA[<color=red>ERROR</color>]]> hours": "展厅预计在<![CDATA[<color=red>错误</color>]]>小时后开放",//不生效
-    "$TEAMFRED_EXPO_TIME": "展厅预计在<![CDATA[<color=red>错误</color>]]>小时后开放",//不生效
+    //"Expo Hall Scheduled to open in <![CDATA[<color=red>ERROR</color>]]> hours": "展厅预计在<![CDATA[<color=red>错误</color>]]>小时后开放",
+    //"$TEAMFRED_EXPO_TIME": "展厅预计在<![CDATA[<color=red>错误</color>]]>小时后开放",
     "$SchedulingRoomInstructions": "将活动装置放入插槽以安排活动。中间的插槽可将活动设为全天开放。",
     "$SomeHouseRecord01": "阿迪娜：里尔西不是你某位先祖的名字吗，亲爱的？",
     "$SomeHouseRecord02": "尼姆：没错！我记得是我的高祖母。",
@@ -148,13 +148,13 @@
     "$SomeHouseWall05": "里尔西：<![CDATA[<color=orange>寻宝游戏？</color>]]>直接告诉我们不行吗？",
     "$SomeHouseWall06": "斯特姆：不能让大人发现嘛。而且肯定很有意思！相信我！",
     "$SomeHouseWall07": "里尔西：那第一条提示是什么？",
-    "$SomeHouseWall08": "斯特姆：“午后两刻日影长，”",
-    "$SomeHouseWall09": "斯特姆：“向后行至小丘旁。”",
+    "$SomeHouseWall08": "斯特姆：“午后两刻晷影长，”",
+    "$SomeHouseWall09": "斯特姆：“向后行至狭缝旁。”",
     "$SomeHouseWall10": "宝：你但凡善良一点，也不至于写得这么晦涩。",
     "$SomeHouseWall11": "斯特姆：我的善意，都用来分享我的发现了，宝！",
     "$SomeHouseWall12": "宝：相信我，里尔西：读懂斯特姆，可能是挪麦人最伟大的发现。",
     "$SomeHouseWall13": "斯特姆：谢谢你的夸奖，朋友。",
-    "$Sundial01": "奥弗里斯：很多人都抱怨，想知道展览内部的时间就得跑一趟日晷，太麻烦了。更别说很多人（尤其是年轻的挪麦人）根本不会读日晷！",
+    "$Sundial01": "奥弗里斯：很多人都抱怨，想知道展览内部的时间就得跑一趟<![CDATA[<color=orange>日晷</color>]]>，太麻烦了。更别说很多人（尤其是年轻的挪麦人）根本不会读日晷！",
     "$Sundial02": "维拉特：能不能沿着外壳的内圈，画上时辰刻度？",
     "$Sundial03": "菲萨利斯：我支持维拉特的提议——前提是别让我来画。",
     "$Sundial04": "吉姆：要是我陪你一起画，你愿意吗，菲萨利斯？",
@@ -189,8 +189,16 @@
     "Lights": "灯光",
     "$TeamFred.Nomai_Technology": "挪麦科技",
     "$TeamFred.Telescope": "望远镜",
-    "$TeamFred.ExpoHall": "展厅！！！",
-    "$TeamFred.Rain": "降雨！！！",
-    "$TeamFred.Lights": "灯光！！！"
+    "$TeamFred.ExpoHall": "展厅安排标记",
+    "$TeamFred.Weather": "天气安排标记", //"$TeamFred.Rain": "降雨！！！"
+    "$TeamFred.Lights": "灯光安排标记"
+  },
+
+  "OtherDictionary": {
+    //{amountOfHoursFormatted} - amount of hours (until opening or how many hours ago opened) (colored blue in code already)
+    "$TeamFred.ExpoHall_Past": "展厅曾于 {amountOfHoursFormatted} 小时前开放",
+    "$TeamFred.ExpoHall_Future": "据安排，展厅将在 {amountOfHoursFormatted} 小时后开放",
+    "$TeamFred.ExpoHall_Present": "展厅正在开放",
+    "$TeamFred.ExpoHall_Error": "<![CDATA[<color=red>错误：未找到展厅的开放日程表</color>]]>"
   }
 }
